@@ -1,0 +1,9 @@
+file_format: "1"
+id: shiftee50
+name: shiftee50
+type: shield
+url: https://kaloyyyy.github.io
+requires: [makerdiary_nrf52840_m2]
+features:
+  - keys
+  - underglow
