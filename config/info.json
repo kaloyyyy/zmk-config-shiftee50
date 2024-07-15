@@ -1,4 +1,6 @@
 {
+  "id": "shiftee50",
+  "name": "shiftee50",
   "layouts": {
     "LAYOUT": {
       "layout": [
@@ -61,5 +63,6 @@
         { "row": 3, "col": 14, "x":    14, "y": 3, "label":      "Ctrl", "u": 1.25 }
       ]
     }
-  }
+  },
+  "sensors": []
 }
